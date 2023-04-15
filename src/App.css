@@ -190,7 +190,7 @@ body {
   align-items: center;
   padding: 1rem;
   border-radius: 0.5rem;
-  background-color: hsl(var(--item-color), 0.1);
+  background-color: hsl(var(--item-color), 0.08);
 }
 
 .summary-item svg {
