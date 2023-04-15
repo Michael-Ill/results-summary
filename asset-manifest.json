@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/results-summary/static/css/main.e4775151.css",
-    "main.js": "/results-summary/static/js/main.6384ff85.js",
+    "main.css": "/results-summary/static/css/main.c1e30bf0.css",
+    "main.js": "/results-summary/static/js/main.7572d3db.js",
+    "static/media/HankenGrotesk-VariableFont_wght.ttf": "/results-summary/static/media/HankenGrotesk-VariableFont_wght.d642a5d85689aa7d33db.ttf",
     "index.html": "/results-summary/index.html",
-    "main.e4775151.css.map": "/results-summary/static/css/main.e4775151.css.map",
-    "main.6384ff85.js.map": "/results-summary/static/js/main.6384ff85.js.map"
+    "main.c1e30bf0.css.map": "/results-summary/static/css/main.c1e30bf0.css.map",
+    "main.7572d3db.js.map": "/results-summary/static/js/main.7572d3db.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4775151.css",
-    "static/js/main.6384ff85.js"
+    "static/css/main.c1e30bf0.css",
+    "static/js/main.7572d3db.js"
   ]
 }
